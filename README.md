@@ -1,6 +1,6 @@
 # Supplementary Information: EAQECCs from Generalized Extended Codes
 
-This repository contains detailed information on the improved binary and ternary EAQECCs listed in Tables IV, V, and VII of the manuscript [**LELLS2026**].
+This repository contains detailed information on the improved binary and ternary EAQECCs listed in Tables IV, V, and VII of the manuscript [**LELLS2026**]. For questions about this supplementary dataset, please contact Yang Li at `yanglimath@163.com`.
 
 [**LELLS2026**] Y. Li, M. F. Ezerman, S. Li, S. Ling, and Z. Sun, *Generalized Extended Codes with Applications to Improved Binary and Ternary EAQECCs*, preprint, 2026.
 
@@ -34,10 +34,7 @@ For Table IV, the construction data are over `GF(4) = GF(2)(w)`, where
 For Tables V and VII when `q = 3`, the construction data are over `GF(9) = GF(3)(w)`, where
 `w^2 - w - 1 = 0`.
 
-## Scope
 
-This repository includes only the EAQECCs appearing in the retained manuscript tables.  Additional EAQECCs from the broader search are intentionally excluded from this table-level supplementary dataset.
 
-## Contact
 
-For questions about this supplementary dataset, please contact Yang Li at `yanglimath@163.com`.
+
