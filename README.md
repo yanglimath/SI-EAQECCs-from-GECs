@@ -1,6 +1,8 @@
 # Supplementary Information: EAQECCs from Generalized Extended Codes
 
-This repository contains the table-level supplementary data for the EAQECCs retained in the final manuscript.
+This repository contains detailed information on the improved binary and ternary EAQECCs listed in Tables IV, V, and VII of the manuscript [**LELLS2026**].
+
+[**LELLS2026**] Y. Li, M. F. Ezerman, S. Li, S. Ling, and Z. Sun, *Generalized Extended Codes with Applications to Improved Binary and Ternary EAQECCs*, preprint, 2026.
 
 Each TSV file follows the row order of the corresponding paper table.  The column `Paper_Table_Row_Number` is the `No.` value in the manuscript table, so each construction record can be matched directly with the paper.
 
