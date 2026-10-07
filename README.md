@@ -10,9 +10,9 @@ Each TSV file follows the row order of the corresponding paper table.  The colum
 
 | Paper table | Rows | Data |
 |---|---:|---|
-| Table IV: New and improved binary EAQECCs with lengths up to `n <= 40` | 265 | [Open TSV](tables/SI-EAQECCs_Table_IV_binary.tsv) |
+| Table IV: New and improved binary EAQECCs with lengths up to `n <= 40` | 244 | [Open TSV](tables/SI-EAQECCs_Table_IV_binary.tsv) |
 | Table V: New and improved ternary EAQECCs with lengths up to `n <= 25` | 14 | [Open TSV](tables/SI-EAQECCs_Table_V_ternary.tsv) |
-| Table VII: Reproducing some known EAQECCs with parameters improving Grassl's tables | 10 | [Open TSV](tables/SI-EAQECCs_Table_VII_literature_equal.tsv) |
+| Table VII: Reproducing some known EAQECCs with parameters improving Grassl's tables | 21 | [Open TSV](tables/SI-EAQECCs_Table_VII_literature_equal.tsv) |
 
 ## TSV Format
 
