@@ -2,7 +2,7 @@
 
 This repository contains detailed information on the improved binary and ternary EAQECCs listed in Tables IV, V, and VII of the manuscript [**LELLS2026**]. For questions about this supplementary dataset, please contact Yang Li at `yanglimath@163.com`.
 
-[**LELLS2026**] Y. Li, M. F. Ezerman, S. Li, S. Ling, and Z. Sun, *Generalized Extended Codes with Applications to Improved Binary and Ternary EAQECCs*, preprint, 2026.
+[**LELLS2026**] Y. Li, M. F. Ezerman, S. Li, S. Ling, and Z. Sun, *Generalized Extended Codes with Applications in Entanglement-Assisted Qubit and Qutrit Codes*, preprint, 2026.
 
 Each TSV file follows the row order of the corresponding paper table.  The column `Paper_Table_Row_Number` is the `No.` value in the manuscript table, so each construction record can be matched directly with the paper.
 
@@ -10,9 +10,9 @@ Each TSV file follows the row order of the corresponding paper table.  The colum
 
 | Paper table | Rows | Data |
 |---|---:|---|
-| Table IV: New and improved binary EAQECCs with lengths up to `n <= 40` | 244 | [Open TSV](tables/SI-EAQECCs_Table_IV_binary.tsv) |
+| Table IV: New and improved binary EAQECCs with lengths up to `n <= 40` | 221 | [Open TSV](tables/SI-EAQECCs_Table_IV_binary.tsv) |
 | Table V: New and improved ternary EAQECCs with lengths up to `n <= 25` | 14 | [Open TSV](tables/SI-EAQECCs_Table_V_ternary.tsv) |
-| Table VII: Reproducing some known EAQECCs with parameters improving Grassl's tables | 21 | [Open TSV](tables/SI-EAQECCs_Table_VII_literature_equal.tsv) |
+| Table VII: Reproducing some known EAQECCs with parameters improving Grassl's tables | 19 | [Open TSV](tables/SI-EAQECCs_Table_VII_literature_equal.tsv) |
 
 ## TSV Format
 
